@@ -6,6 +6,4 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Strategy/Repository
 - Facade
 =======
-# Padroes-de-Projeto-em-uma-API-Rest
-Criando projeto Cep com Spring Boot em uma API Rest.
->>>>>>> branch 'main' of https://github.com/francaferreira/Padroes-de-Projeto-em-uma-API-Rest.git
+
